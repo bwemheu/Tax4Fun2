@@ -1,5 +1,8 @@
 # Tax4Fun2 v1.1.5
 
+NEW PRE-RELEASE with a minor bug-fix on 22 Jan 2020. I will make the final release at the end of the month.
+Thanks for all feedback so far.
+
 Welcome to the homepage of Tax4Fun2.
 Older versions are also available under https://sourceforge.net/projects/tax4fun2/
 
@@ -72,6 +75,8 @@ testReferenceData(path_to_reference_data = "Tax4Fun2_ReferenceData_v2")
 ```
 
 **Install dependencies**
+
+A function I needed to introduce in later Tax4Fun2 version for users who have difficulties to install blast and other suggested packages.
 
 This command will download the currently latest version of blast (v2.9.0) and will place the binaries in the Tax4Fun2 reference folder. In addition, it will test for the presence of the R packages ape and seqinr.
 
