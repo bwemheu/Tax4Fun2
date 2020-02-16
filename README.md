@@ -3,6 +3,10 @@
 NEW PRE-RELEASE with a minor bug-fix on 22 Jan 2020. I will make the final release at the end of the month.
 Thanks for all feedback so far.
 
+If you have issues downloding the data, please check here:
+https://www.dropbox.com/s/fpuge7o2en0fr2n/Tax4Fun2_Tutorial.zip?dl=0
+A small dataset/tutrial for the latest release.
+
 Welcome to the homepage of Tax4Fun2.
 Older versions are also available under https://sourceforge.net/projects/tax4fun2/
 
