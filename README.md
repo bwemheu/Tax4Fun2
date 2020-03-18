@@ -269,6 +269,9 @@ runRefBlast(path_to_otus = "Water_otus.fna", path_to_reference_data = "Tax4Fun2_
 
 # 2. Calculating FRIs
 calculateFunctionalRedundancy(path_to_otu_table = "Water_otu_table.txt", path_to_reference_data = "Tax4Fun2_ReferenceData_v2", path_to_temp_folder = "Water_Ref99NR", database_mode = "Ref99NR", min_identity_to_reference = 0.97)
+
+#New in the latest pre-release (v1.1.6): prevalence_cutoff (see comment on pre-release)
+calculateFunctionalRedundancy(path_to_otu_table = "Water_otu_table.txt", path_to_reference_data = "Tax4Fun2_ReferenceData_v2", path_to_temp_folder = "Water_Ref99NR", database_mode = "Ref99NR", min_identity_to_reference = 0.97, prevalence_cutoff = 1.0)
 ```
 
 Have Fun!
