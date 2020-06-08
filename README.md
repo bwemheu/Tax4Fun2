@@ -4,7 +4,7 @@ NEW PRE-RELEASE with a minor bug-fix on 22 Jan 2020. I will make the final relea
 Thanks for all feedback so far.
 
 If you have issues downloding the data, please check here:
-https://www.dropbox.com/s/fpuge7o2en0fr2n/Tax4Fun2_Tutorial.zip?dl=0
+https://owncloud.gwdg.de/index.php/s/BBpOUn0I6oTCQpI
 A small dataset/tutrial for the latest release.
 
 Welcome to the homepage of Tax4Fun2.
@@ -61,7 +61,7 @@ buildReferenceData(path_to_working_directory = ".", use_force = FALSE, install_s
 path_to_working_directory = "C:/Users/your_name/Desktop/Tax4Fun2"
 path_to_reference_data = "C:/Users/your_name/Desktop/Tax4Fun2/Tax4Fun2_ReferenceData_v2"*
 
-We noticed some issues with the unzip command in Windows. Basically, the data was downloaded but couldn't be unzipped. In case you have issues here, click [here](https://cloudstor.aarnet.edu.au/plus/s/OoKjFHWmyKcc48V/download) to download the full reference data. Simply extract the reference data afterwards. We implemented a function to test the downloaded database for consistency.
+We noticed some issues with the unzip command in Windows. Basically, the data was downloaded but couldn't be unzipped. In case you have issues here, click [here](https://owncloud.gwdg.de/index.php/s/pii5Hoitr5SgDqK/download) to download the full reference data. Simply extract the reference data afterwards. We implemented a function to test the downloaded database for consistency.
 or run in terminal:
 
 ```
