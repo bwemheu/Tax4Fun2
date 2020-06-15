@@ -1,0 +1,16 @@
+Package: Tax4Fun2
+Type: Package
+Title: Tax4Fun2: predicting functional profiles from metagenomic 16S
+        rRNA data.
+Version: 1.1.5
+Author: Bernd and Franziska Wemheuer
+Maintainer: The package maintainer <bwemheu@gmail.com>
+Description: Tax4Fun2
+License: GPL v3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/bwemheu/Tax4Fun2
+BugReports: https://github.com/bwemheu/Tax4Fun2/issues
+Suggests: seqinr,ape
+NeedsCompilation: no
+Packaged: 2019-12-19 18:56:13 UTC; bwemheu
